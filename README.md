@@ -1,2 +1,7 @@
-# h2v
+# h2v [![build](https://circleci.com/gh/livoras/h2v/tree/master.png)](https://circleci.com/gh/livoras/h2v) 
+
 Translate HTML string to simple-virtual-dom.
+
+## Licnese
+
+MIT

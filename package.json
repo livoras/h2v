@@ -1,0 +1,32 @@
+{
+  "name": "h2v",
+  "version": "0.0.1",
+  "description": "ranslate HTML string to simple-virtual-dom.",
+  "main": "ç",
+  "scripts": {
+    "test": "standard && mocha test/**/*.spec.js",
+    "dev": "nodemon --exec npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/livoras/h2v.git"
+  },
+  "author": "Livoras",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/livoras/h2v/issues"
+  },
+  "homepage": "https://github.com/livoras/h2v",
+  "keywords": [
+    "virtual-dom"
+  ],
+  "dependencies": {
+    "simple-virtual-dom": "^0.1.4"
+  },
+  "devDependencies": {
+    "mocha-jsdom": "^1.0.0",
+    "mocha-sinon": "^1.1.4",
+    "sinon": "^1.17.2",
+    "sinon-chai": "^2.8.0"
+  }
+}
