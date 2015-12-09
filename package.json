@@ -24,6 +24,7 @@
     "simple-virtual-dom": "^0.1.4"
   },
   "devDependencies": {
+    "jsdom": "^7.2.0",
     "mocha-jsdom": "^1.0.0",
     "mocha-sinon": "^1.1.4",
     "sinon": "^1.17.2",
